@@ -1,0 +1,4 @@
+# build outputs
+/click2whoosh
+/click2whoosh.app/
+.DS_Store
