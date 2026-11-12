@@ -80,3 +80,7 @@ controllers and trainer apps, use BikeControl.
 
 This project isn't affiliated with Zwift, MyWhoosh or OpenBikeControl. "Zwift", "Zwift Click"
 and "MyWhoosh" are trademarks of their respective owners.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
